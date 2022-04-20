@@ -10,11 +10,11 @@ Season 1. 확률과 수학
 ---
 |  NO.  |     내용    |      날짜     |      키워드      |     비고     |
 |:-----:| --------------------------------------- |:---------------:|--------------------------|--------------------------|
-| O1.  |고유값과 고유벡터의 정의와 필요성     | 2022.04.19~2022.04.28  | 고유값,고유벡터  | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#1 |
-| 02. |샘플링과 리샘플링의 정의 및 장점   | 2022.04.19~2022.04.28  | 샘플링, 리샘플링  | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#2|
-| 03. |확률 모형과 확률 변수의 정의 | 2022.04.19~2022.04.28  | 확률 모형과 확률 변수    | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#3|
-| 04. |누적 분포 함수와 확률 밀도 함수의 정의와 수식   | 2022.04.19~2022.04.28  | 누적 분포 함수와 확률 밀도 함수 | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#4 |
-| 05. |조건부 확률 정의| 2022.04.19~2022.04.28 | 조건부 확률 | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#5|
+| O1.  |고유값과 고유벡터의 정의와 필요성     | 2022.04.19~2022.04.25  | 고유값,고유벡터  | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#1 |
+| 02. |샘플링과 리샘플링의 정의 및 장점   | 2022.04.19~2022.04.25  | 샘플링, 리샘플링  | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#2|
+| 03. |확률 모형과 확률 변수의 정의 | 2022.04.19~2022.04.25  | 확률 모형과 확률 변수    | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#3|
+| 04. |누적 분포 함수와 확률 밀도 함수의 정의와 수식   | 2022.04.19~2022.04.25  | 누적 분포 함수와 확률 밀도 함수 | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#4 |
+| 05. |조건부 확률 정의| 2022.04.19~2022.04.25 | 조건부 확률 | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#5|
 
 ---
 
