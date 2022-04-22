@@ -18,6 +18,7 @@ Season 1. 확률과 수학
 
 ---
 
+[나누었던 고민들](https://github.com/offgroup1/CS/tree/main/Statistics_Math/week1)
 
 ## 참고자료
 
