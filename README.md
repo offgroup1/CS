@@ -20,7 +20,11 @@ Season 1. 확률과 수학(week1)
 | 08 |p-value를 모르는 사람에게 설명한다면 어떻게 설명하실 건가요?| 2022.04.26~2022.05.03  |p-value, 귀무가설    | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#8
 | 09 |R square의 의미는 무엇인가요?   | 2022.04.26~2022.05.03  | R-square,SSE,SST,SSR | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#9|
 | 10. |평균(mean)과 중앙값(median)중에 어떤 케이스에서 뭐를 써야할까요?| 2022.04.26~2022.05.03 | 평균,중앙값| https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#10
-
+| 11. |공분산과 상관계수는 무엇일까요? 수식과 함께 표현해주세요. | 2022.04.26~2022.05.03  | 공분산, 상관계수  | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#11|
+| 12 |신뢰 구간의 정의는 무엇인가요?   | 2022.04.26~2022.05.03  | 신뢰구간  | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#12|
+| 13 |p-value를 모르는 사람에게 설명한다면 어떻게 설명하실 건가요?| 2022.04.26~2022.05.03  |p-value, 귀무가설    | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#13|
+| 14 |R square의 의미는 무엇인가요?   | 2022.04.26~2022.05.03  | R-square,SSE,SST,SSR | https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#14|
+| 15. |평균(mean)과 중앙값(median)중에 어떤 케이스에서 뭐를 써야할까요?| 2022.04.26~2022.05.03 | 평균,중앙값| https://github.com/boostcamp-ai-tech-4/ai-tech-interview/blob/main/answers/1-statistics-math.md#15|
 
 ---
 
