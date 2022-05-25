@@ -75,7 +75,7 @@ $$
 
 Accuracy, Precision, Recall, F1-score, ROC-AUC
 
-![ConfusionMatrix](%5B5%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%82%E1%85%B3%E1%86%AB%20metric%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A2%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%202820eff0bbff4e13bf2aee0cb87c60b3/Untitled%201.png)
+![ConfusionMatrix]<img src = https://user-images.githubusercontent.com/89373055/170189124-440ccf2a-a585-4b65-8732-6b93b8be02b7.png>
 
 - **Accuracy(정확도)**
     - 전체 데이터 중에서 올바르게 예측한 비율
