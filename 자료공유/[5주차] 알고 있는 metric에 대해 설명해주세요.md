@@ -61,7 +61,7 @@ $$
 R^2 = \frac{SSE}{SST}=1-\frac{SSR}{SST}
 $$
 
-![Rsquared](%5B5%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%82%E1%85%B3%E1%86%AB%20metric%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A2%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%202820eff0bbff4e13bf2aee0cb87c60b3/Untitled.png)
+![Rsquared](https://user-images.githubusercontent.com/89373055/170188164-9142d68c-8ee1-46e6-bab6-2c186bcfb33b.png)
 
 - **Adjusted R Square**
     - 독립변수의 개수가 증가하면 결정계수는 일방적으로 증가
@@ -75,7 +75,7 @@ $$
 
 Accuracy, Precision, Recall, F1-score, ROC-AUC
 
-![ConfusionMatrix]<img src = https://user-images.githubusercontent.com/89373055/170189124-440ccf2a-a585-4b65-8732-6b93b8be02b7.png>
+![ConfusionMatrix](https://user-images.githubusercontent.com/89373055/170189124-440ccf2a-a585-4b65-8732-6b93b8be02b7.png)
 
 - **Accuracy(정확도)**
     - 전체 데이터 중에서 올바르게 예측한 비율
@@ -130,7 +130,7 @@ $$
     precision과 recall은 하나가 높아지면 하나가 낮아지는 관계(trade-off 관계)
     둘 중 하나가 0에 가깝게 낮을 때 지표에 그것이 잘 반영되게 하기 위해서 (두 지표 모두 균형있게 반영하기 위해)
     
-    ![f1score](%5B5%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%82%E1%85%B3%E1%86%AB%20metric%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A2%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%202820eff0bbff4e13bf2aee0cb87c60b3/Untitled%202.png)
+    ![f1score](https://user-images.githubusercontent.com/89373055/170189133-6a4925d1-a1e4-40ab-a73e-89ba1ebde57a.png)
     
 - **AUC(Area Under the Cover)-ROC(Receiver Operating Characteristic)**
     - ROC : FPR이 변화할 때, TPR이 어떻게 변화하는지 보여주는 곡선
@@ -138,7 +138,7 @@ $$
     - x축 :FPR=1-specificity, y축:TPR=sensitivity
     - 우수한 모델일수록 AUC 값이 1에 가까움
 
-![rocauc](%5B5%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%20%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%82%E1%85%B3%E1%86%AB%20metric%E1%84%8B%E1%85%A6%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%A2%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A2%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD%202820eff0bbff4e13bf2aee0cb87c60b3/Untitled%203.png)
+![rocauc](https://user-images.githubusercontent.com/89373055/170189141-29c29f80-a7f5-4ef3-b358-0cfe85f4a7af.png)
 
 참고
 
